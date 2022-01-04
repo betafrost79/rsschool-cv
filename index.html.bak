@@ -100,7 +100,7 @@
     </main>
     <footer class="footer">
         <div class = "container footer-container">
-             <div>© 2022 <a href="https://github.com/betafrost79" class="github nav-link">My Github</a></div>
+             <div>© 2022 <a href="https://github.com/betafrost79" class="github nav-link">betafros79</a></div>
              <a href="https://rs.school/js/" class="rss"></a> 
         </div>   
     </footer>
